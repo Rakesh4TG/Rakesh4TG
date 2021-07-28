@@ -1,0 +1,52 @@
+{
+  "uid" : "24931bd4935f94cc",
+  "name" : "GET OTP FROM THE EMAIL",
+  "fullName" : "TEXTILE GENESIS APPLICATION.GET OTP FROM THE EMAIL",
+  "historyId" : "c89c7cfb792ec4fb313b48dd0d301b60",
+  "time" : {
+    "start" : 1627386707733,
+    "stop" : 1627386718550,
+    "duration" : 10817
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "No matching messages found in time. By default, only messages received in the last hour are checked (use receivedAfter to override this).",
+  "statusTrace" : "Error: No matching messages found in time. By default, only messages received in the last hour are checked (use receivedAfter to override this).\n                    at eval (http://localhost:54570/__cypress/tests?p=cypress\\support\\index.js:9842:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "TEXTILE GENESIS APPLICATION"
+  }, {
+    "name" : "testClass",
+    "value" : "TEXTILE GENESIS APPLICATION"
+  }, {
+    "name" : "testMethod",
+    "value" : "GET OTP FROM THE EMAIL"
+  }, {
+    "name" : "package",
+    "value" : "TEXTILE GENESIS APPLICATION"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "24931bd4935f94cc.json",
+  "parameterValues" : [ ]
+}

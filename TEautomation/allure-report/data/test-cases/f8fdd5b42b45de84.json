@@ -1,0 +1,46 @@
+{
+  "uid" : "f8fdd5b42b45de84",
+  "name" : "Company info",
+  "fullName" : "Company_info negative Test cases.Company info",
+  "historyId" : "e028823b25cb696f2bf92dfb80665312",
+  "time" : {
+    "start" : 1627386679451,
+    "stop" : 1627386683590,
+    "duration" : 4139
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Company_info negative Test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Company_info negative Test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Company info"
+  }, {
+    "name" : "package",
+    "value" : "Company_info negative Test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8fdd5b42b45de84.json",
+  "parameterValues" : [ ]
+}

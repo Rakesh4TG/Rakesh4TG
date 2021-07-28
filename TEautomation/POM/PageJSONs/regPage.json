@@ -1,0 +1,16 @@
+{
+    "joinUs" : "button.editBtn.mat-raised-button.mat-button-base.ng-star-inserted",
+    "submitbtn" : "strong",
+
+    "companyName" : "#mat-input-1",
+    "tgCode" : "#mat-input-2",
+    "companySite" : "#mat-input-3",
+
+    "companyPhno" : "#phoneNumberExpand",
+    "address" : "#mat-input-4",
+
+    "cityDropdown" : "#pac",
+    "zipCode" : "#zipCode",
+
+    "nxtBtn" : "strong"
+}

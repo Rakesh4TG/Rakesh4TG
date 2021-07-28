@@ -1,0 +1,171 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "reg is not defined",
+      "children" : [ {
+        "name" : "Company info",
+        "uid" : "3a9c3e16e148621a",
+        "parentUid" : "77d24cd152843bc402f2da4c69a82370",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627386703282,
+          "stop" : 1627386703497,
+          "duration" : 215
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "77d24cd152843bc402f2da4c69a82370"
+    }, {
+      "name" : "Timed out retrying after 4000ms: Expected to find element: `#mat-input-25`, but never found it.",
+      "children" : [ {
+        "name" : "Admin info",
+        "uid" : "efbb6f1b9350974d",
+        "parentUid" : "28706a69b7d60ff57c2f83951b9acb95",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627386703503,
+          "stop" : 1627386707711,
+          "duration" : 4208
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Admin info",
+        "uid" : "30f39f7f9dd9edd8",
+        "parentUid" : "28706a69b7d60ff57c2f83951b9acb95",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627386703513,
+          "stop" : 1627386707711,
+          "duration" : 4198
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "28706a69b7d60ff57c2f83951b9acb95"
+    }, {
+      "name" : "No matching messages found in time. By default, only messages received in the last hour are checked (use receivedAfter to override this).",
+      "children" : [ {
+        "name" : "GET OTP FROM THE EMAIL",
+        "uid" : "6e8c32c24be574d6",
+        "parentUid" : "e844146219be2c52d5a4fe953e89b9d8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627386707720,
+          "stop" : 1627386718549,
+          "duration" : 10829
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e844146219be2c52d5a4fe953e89b9d8"
+    }, {
+      "name" : "Timed out retrying after 4000ms: Expected to find element: `#mat-input-29`, but never found it.",
+      "children" : [ {
+        "name" : "User details",
+        "uid" : "bf3b652097a85ae7",
+        "parentUid" : "b1dcc41460157654339ae5e673f3acba",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627386718559,
+          "stop" : 1627386722777,
+          "duration" : 4218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User details",
+        "uid" : "2695e85737a682f4",
+        "parentUid" : "b1dcc41460157654339ae5e673f3acba",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627386718564,
+          "stop" : 1627386722778,
+          "duration" : 4214
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b1dcc41460157654339ae5e673f3acba"
+    }, {
+      "name" : "Timed out retrying after 4000ms: Expected to find element: `#mat-checkbox-8-input`, but never found it.",
+      "children" : [ {
+        "name" : "Role info",
+        "uid" : "dd483ac6eb739a96",
+        "parentUid" : "84f495b2042a5c9cfd98d2049aedef6b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627386722784,
+          "stop" : 1627386726995,
+          "duration" : 4211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Role info",
+        "uid" : "8dd9f1401dc4c37b",
+        "parentUid" : "84f495b2042a5c9cfd98d2049aedef6b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627386722798,
+          "stop" : 1627386726996,
+          "duration" : 4198
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "84f495b2042a5c9cfd98d2049aedef6b"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "reg is not defined",
+      "children" : [ {
+        "name" : "Company info",
+        "uid" : "8365f12e8f64ec71",
+        "parentUid" : "7d497623d465055c1ccf5c758769a179",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627386703297,
+          "stop" : 1627386703497,
+          "duration" : 200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d497623d465055c1ccf5c758769a179"
+    }, {
+      "name" : "No matching messages found in time. By default, only messages received in the last hour are checked (use receivedAfter to override this).",
+      "children" : [ {
+        "name" : "GET OTP FROM THE EMAIL",
+        "uid" : "24931bd4935f94cc",
+        "parentUid" : "614a5222bdb36a4e6d990e234858823c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627386707733,
+          "stop" : 1627386718550,
+          "duration" : 10817
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "614a5222bdb36a4e6d990e234858823c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
