@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1627451964936' stop='1627452020813'>
+    <name>TEXTILE GENESIS APPLICATION</name>
+    <title>TEXTILE GENESIS APPLICATION</title>
+    <test-cases>
+        <test-case start='1627451964936' status='passed' stop='1627452020813'>
+            <name>Open registeration</name>
+            <title>Open registeration</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

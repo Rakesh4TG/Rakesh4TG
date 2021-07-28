@@ -1,0 +1,46 @@
+{
+  "uid" : "2501af8f2a08a7c8",
+  "name" : "For TC TG  id already exists",
+  "fullName" : "Company_info negative Test cases.For TC TG  id already exists",
+  "historyId" : "e5d8877a1c84b14235c7590c722d97df",
+  "time" : {
+    "start" : 1627386683595,
+    "stop" : 1627386683624,
+    "duration" : 29
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Company_info negative Test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Company_info negative Test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "For TC TG  id already exists"
+  }, {
+    "name" : "package",
+    "value" : "Company_info negative Test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2501af8f2a08a7c8.json",
+  "parameterValues" : [ ]
+}

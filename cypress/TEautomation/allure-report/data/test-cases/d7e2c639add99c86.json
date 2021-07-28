@@ -1,0 +1,46 @@
+{
+  "uid" : "d7e2c639add99c86",
+  "name" : "Open registeration",
+  "fullName" : "Company_info required fields Test cases.Open registeration",
+  "historyId" : "2d0a6e3281427bfcde555147900e077f",
+  "time" : {
+    "start" : 1627386691793,
+    "stop" : 1627386697566,
+    "duration" : 5773
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Company_info required fields Test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Company_info required fields Test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open registeration"
+  }, {
+    "name" : "package",
+    "value" : "Company_info required fields Test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7e2c639add99c86.json",
+  "parameterValues" : [ ]
+}

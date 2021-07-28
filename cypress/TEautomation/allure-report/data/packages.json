@@ -1,0 +1,303 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Company_info negative Test cases",
+    "children" : [ {
+      "name" : "Open registeration",
+      "uid" : "7e32bfe1775ac7be",
+      "parentUid" : "dadb84c3fb412aedcc90245741740235",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627386673131,
+        "stop" : 1627386679450,
+        "duration" : 6319
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Company info",
+      "uid" : "f8fdd5b42b45de84",
+      "parentUid" : "dadb84c3fb412aedcc90245741740235",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627386679451,
+        "stop" : 1627386683590,
+        "duration" : 4139
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "For TC TG  id already exists",
+      "uid" : "2501af8f2a08a7c8",
+      "parentUid" : "dadb84c3fb412aedcc90245741740235",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627386683595,
+        "stop" : 1627386683624,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "dadb84c3fb412aedcc90245741740235"
+  }, {
+    "name" : "Open registeration",
+    "uid" : "ffec809be35f5fe7",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627386674535,
+      "stop" : 1627386679419,
+      "duration" : 4884
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Company info",
+    "uid" : "7dac70674379d51e",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627386679428,
+      "stop" : 1627386683583,
+      "duration" : 4155
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "For TC TG  id already exists",
+    "uid" : "9f9c872f60c39e63",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627386683590,
+      "stop" : 1627386683614,
+      "duration" : 24
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Company_info required fields Test cases",
+    "children" : [ {
+      "name" : "Open registeration",
+      "uid" : "d7e2c639add99c86",
+      "parentUid" : "66582a90be7c0f4bf787c66733905d35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627386691793,
+        "stop" : 1627386697566,
+        "duration" : 5773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "To verify the mandatory fields error message",
+      "uid" : "86e2b27e0d738caa",
+      "parentUid" : "66582a90be7c0f4bf787c66733905d35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627386697567,
+        "stop" : 1627386699071,
+        "duration" : 1504
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "66582a90be7c0f4bf787c66733905d35"
+  }, {
+    "name" : "Open registeration",
+    "uid" : "f734292e8e6bccea",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627386693172,
+      "stop" : 1627386697534,
+      "duration" : 4362
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "To verify the mandatory fields error message",
+    "uid" : "74b41f2c28fab012",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627386697541,
+      "stop" : 1627386699040,
+      "duration" : 1499
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Company info",
+    "uid" : "3a9c3e16e148621a",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627386703282,
+      "stop" : 1627386703497,
+      "duration" : 215
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TEXTILE GENESIS APPLICATION",
+    "children" : [ {
+      "name" : "Company info",
+      "uid" : "8365f12e8f64ec71",
+      "parentUid" : "4be3fb4725d18ca900ba687fefcfc541",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627386703297,
+        "stop" : 1627386703497,
+        "duration" : 200
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Admin info",
+      "uid" : "30f39f7f9dd9edd8",
+      "parentUid" : "4be3fb4725d18ca900ba687fefcfc541",
+      "status" : "failed",
+      "time" : {
+        "start" : 1627386703513,
+        "stop" : 1627386707711,
+        "duration" : 4198
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "GET OTP FROM THE EMAIL",
+      "uid" : "24931bd4935f94cc",
+      "parentUid" : "4be3fb4725d18ca900ba687fefcfc541",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627386707733,
+        "stop" : 1627386718550,
+        "duration" : 10817
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "User details",
+      "uid" : "2695e85737a682f4",
+      "parentUid" : "4be3fb4725d18ca900ba687fefcfc541",
+      "status" : "failed",
+      "time" : {
+        "start" : 1627386718564,
+        "stop" : 1627386722778,
+        "duration" : 4214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Role info",
+      "uid" : "8dd9f1401dc4c37b",
+      "parentUid" : "4be3fb4725d18ca900ba687fefcfc541",
+      "status" : "failed",
+      "time" : {
+        "start" : 1627386722798,
+        "stop" : 1627386726996,
+        "duration" : 4198
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Open registeration",
+      "uid" : "2704350acf80d5dc",
+      "parentUid" : "4be3fb4725d18ca900ba687fefcfc541",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627452372793,
+        "stop" : 1627452418361,
+        "duration" : 45568
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4be3fb4725d18ca900ba687fefcfc541"
+  }, {
+    "name" : "Admin info",
+    "uid" : "efbb6f1b9350974d",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627386703503,
+      "stop" : 1627386707711,
+      "duration" : 4208
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "GET OTP FROM THE EMAIL",
+    "uid" : "6e8c32c24be574d6",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627386707720,
+      "stop" : 1627386718549,
+      "duration" : 10829
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User details",
+    "uid" : "bf3b652097a85ae7",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627386718559,
+      "stop" : 1627386722777,
+      "duration" : 4218
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Role info",
+    "uid" : "dd483ac6eb739a96",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627386722784,
+      "stop" : 1627386726995,
+      "duration" : 4211
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Open registeration",
+    "uid" : "39c793b390f91f17",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627452374216,
+      "stop" : 1627452418270,
+      "duration" : 44054
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

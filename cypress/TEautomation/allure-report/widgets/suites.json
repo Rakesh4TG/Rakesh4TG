@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "71a43c1ebdb55ff240e4d58fcfc27b30",
+    "name" : "TEXTILE GENESIS APPLICATION",
+    "statistic" : {
+      "failed" : 8,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "bd21d56062d8446fcd8e8a2def15b3db",
+    "name" : "Company_info negative Test cases",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "f3cdbe0a671468a4bfef22f47b5560fa",
+    "name" : "Company_info required fields Test cases",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

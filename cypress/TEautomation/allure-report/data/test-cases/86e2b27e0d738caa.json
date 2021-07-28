@@ -1,0 +1,46 @@
+{
+  "uid" : "86e2b27e0d738caa",
+  "name" : "To verify the mandatory fields error message",
+  "fullName" : "Company_info required fields Test cases.To verify the mandatory fields error message",
+  "historyId" : "a0c7e82dc515cc4106248e08a33ab9fb",
+  "time" : {
+    "start" : 1627386697567,
+    "stop" : 1627386699071,
+    "duration" : 1504
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Company_info required fields Test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Company_info required fields Test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "To verify the mandatory fields error message"
+  }, {
+    "name" : "package",
+    "value" : "Company_info required fields Test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86e2b27e0d738caa.json",
+  "parameterValues" : [ ]
+}
